@@ -1,0 +1,58 @@
+{
+  "name": "superhero-extensions",
+  "displayName": "SuperHero Extension Pack",
+  "description": "Only SuperHeros use these extensions! Check out my VS Code SuperHero course to become one! vsCodeHero.com",
+  "publisher": "codeSTACKr",
+  "author": {
+    "name": "Jesse Hall"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codestackr/superhero-extensions"
+  },
+  "bugs": {
+    "url": "https://github.com/codestackr/superhero-extensions/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "icon": "images/icon/logo.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "SuperHero Extensions",
+    "codeSTACKr Extensions",
+    "VSCode SuperHero",
+    "vsCodeHero",
+    "codeSTACKr"
+  ],
+  "badges": [
+    {
+      "url": "https://img.shields.io/badge/SUPPORT%20THIS%20PROJECT-Become%20a%20VS%20Code%20SuperHero%20%E2%86%92-gray?colorA=272727&colorB=ff652f&style=flat",
+      "href": "http://vsCodeHero.com",
+      "description": "Support this project!"
+    }
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "bierner.emojisense",
+    "codeSTACKr.codestackr-theme",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "oderwat.indent-rainbow",
+    "ritwickdey.LiveServer",
+    "vscode-icons-team.vscode-icons",
+    "wesbos.theme-cobalt2",
+    "robbowen.synthwave-vscode"
+  ]
+}
