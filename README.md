@@ -22,47 +22,47 @@ A special theme for SuperHeros. 😃
 
 ## vscode-icons
 
-<img src="images/vs-icons.jpg" alt="vscode-icons" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/vs-icons.jpg" alt="vscode-icons" width="60%" />
 
 ### Auto Rename Tag
 
-<img src="images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
 
 This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
 
 ### Bracket Pair Colorizer 2
 
-<img src="images/ext_bracketcolor.jpg" alt="Bracket Pair Colorizer 2" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bracketcolor.jpg" alt="Bracket Pair Colorizer 2" width="60%" />
 
 This extension colors your brackets, parenthesis, and curly braces. This helps you easily identify the scope that you are looking at.
 
 ### indent-Rainbow
 
-<img src="images/ext_indentrainbow.jpg" alt="Indent-Rainbow" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_indentrainbow.jpg" alt="Indent-Rainbow" width="60%" />
 
 A simple extension to make indentation more readable. It adds subtle colors to the indented gutters.
 
 ### Prettier
 
-<img src="images/ext_prettier.jpg" alt="Prettier" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_prettier.jpg" alt="Prettier" width="60%" />
 
 This extension keeps your code formatted and uniform throughout.
 
 ### Live Server
 
-<img src="images/ext_liveserver.jpg" alt="Live Server" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_liveserver.jpg" alt="Live Server" width="60%" />
 
 This extension sets up a local web server so that you can see the changes made in real-time without having to reload. It’s a must-have for web development.
 
 ### Better Comments
 
-<img src="images/ext_bettercomments.jpg" alt="Better Comments" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bettercomments.jpg" alt="Better Comments" width="60%" />
 
 This extension helps to make your comments stand out.
 
 ### HTML CSS Support
 
-<img src="images/ext_htmlcsssupport.jpg" alt="HTML CSS Support" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_htmlcsssupport.jpg" alt="HTML CSS Support" width="60%" />
 
 Here are a few key features this extension adds:
 
@@ -73,19 +73,19 @@ Here are a few key features this extension adds:
 
 ### GitLens
 
-<img src="images/gitlens.jpg" alt="GitLens" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/gitlens.jpg" alt="GitLens" width="60%" />
 
 GitLens supercharges the Git functionality within VS Code. Easily see who made changes to code, when they made the changes, and why they made them.
 
 ### :emojisense:
 
-<img src="images/ext_emojisense.jpg" alt="Emoji" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_emojisense.jpg" alt="Emoji" width="60%" />
 
 This extension allows you to quickly insert emoji into your code using a standard `:` syntax. Example: `:smile_cat:` --> 😸
 
 ### ES7 React/Redux/GraphQL/React-Native snippets
 
-<img src="images/ext_react.jpg" alt="React Snippets Extension" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_react.jpg" alt="React Snippets Extension" width="60%" />
 
 If you are writing React code, this is a must-have extension!
 
@@ -93,13 +93,13 @@ This extension will add snippets for all of the common React code that you'll wr
 
 ### Cobalt2
 
-<img src="images/ext_cobalt2.jpg" alt="Cobalt2 Theme" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_cobalt2.jpg" alt="Cobalt2 Theme" width="60%" />
 
 🔥 Official theme by Wes Bos.
 
 ### Synthwave '84
 
-<img src="images/ext_synthwave.jpg" alt="Synthwave '84 Theme" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_synthwave.jpg" alt="Synthwave '84 Theme" width="60%" />
 
 A Synthwave-inspired colour theme to satisfy your neon dreams
 
