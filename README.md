@@ -111,4 +111,4 @@ For any issues or suggestions, please use [GitHub issues](https://github.com/cod
 
 Want to learn how to make your own extension pack?? Check out this video:
 
-[![How to make a VS Code extension pack](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![How to make a VS Code extension pack](https://img.youtube.com/vi/DvNXEBxO3YQ/0.jpg)](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
