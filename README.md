@@ -30,12 +30,6 @@ A special theme for SuperHeros. 😃
 
 This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
 
-### Bracket Pair Colorizer 2
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bracketcolor.jpg" alt="Bracket Pair Colorizer 2" width="60%" />
-
-This extension colors your brackets, parenthesis, and curly braces. This helps you easily identify the scope that you are looking at.
-
 ### indent-Rainbow
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_indentrainbow.jpg" alt="Indent-Rainbow" width="60%" />
