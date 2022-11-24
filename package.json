@@ -6,7 +6,7 @@
   "author": {
     "name": "Jesse Hall"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.49.0"
   },
@@ -30,7 +30,11 @@
     "codeSTACKr Extensions",
     "VSCode SuperHero",
     "vsCodeHero",
-    "codeSTACKr"
+    "codeSTACKr",
+    "web development",
+    "web dev",
+    "basic extension pack",
+    "basic extensions"
   ],
   "badges": [
     {
@@ -48,10 +52,12 @@
     "ecmel.vscode-html-css",
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
-    "oderwat.indent-rainbow",
     "ritwickdey.LiveServer",
     "vscode-icons-team.vscode-icons",
-    "wesbos.theme-cobalt2",
-    "robbowen.synthwave-vscode"
+    "naumovs.color-highlight",
+    "Cardinal90.multi-cursor-case-preserve",
+    "streetsidesoftware.code-spell-checker",
+    "meganrogge.template-string-converter",
+    "rangav.vscode-thunder-client"
   ]
 }

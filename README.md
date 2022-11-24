@@ -1,8 +1,8 @@
 # SuperHero Extensions Pack
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/codeSTACKr.superhero-extensions.svg?subject=SuperHero%20Extensions&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/codeSTACKr.superhero-extensions.svg?label=Ratings&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&ssr=false#review-details)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](http://vsCodeHero.com)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/codeSTACKr.superhero-extensions?color=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/codeSTACKr.superhero-extensions?color=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&ssr=false#review-details)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](http://vsCodeHero.com)
 
 Thanks for checking out my VS Code SuperHero extension pack.
 
@@ -30,17 +30,27 @@ A special theme for SuperHeros. 😃
 
 This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
 
-### indent-Rainbow
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_indentrainbow.jpg" alt="Indent-Rainbow" width="60%" />
-
-A simple extension to make indentation more readable. It adds subtle colors to the indented gutters.
-
 ### Prettier
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_prettier.jpg" alt="Prettier" width="60%" />
 
 This extension keeps your code formatted and uniform throughout.
+
+### Code Spell Checker
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/spellchecker.jpg" alt="Code Spell Checker" width="60%" />
+
+Who knew you needed a spell checker for your code. (lol)
+
+This extension is a basic spell checker to help you catch common spelling errors.
+
+### Multiple cursor case preserve
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_multiCursorCase.jpg" alt="Multiple cursor case preserve" width="60%" />
+
+Have you ever tried to change a single word in all variable names, but had your
+camelCase broken? This extension preserves selection case in these situations. It
+recognizes CAPS, Uppercase and lowercase. It works for typing or pasting.
 
 ### Live Server
 
@@ -65,6 +75,13 @@ Here are a few key features this extension adds:
 - Scans workspace folder for CSS and SCSS files.
 - Supports remote css files.
 
+### Color Highlight
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_colorhighlight.jpg" alt="Color Highlight" width="60%" />
+
+Always know what color you are working with using this extension. Colors will be
+highlighted using its color.
+
 ### GitLens
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/gitlens.jpg" alt="GitLens" width="60%" />
@@ -85,17 +102,20 @@ If you are writing React code, this is a must-have extension!
 
 This extension will add snippets for all of the common React code that you'll write.
 
-### Cobalt2
+### Template String Converter
 
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_cobalt2.jpg" alt="Cobalt2 Theme" width="60%" />
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_templateString.jpg" alt="Template String Converter" width="60%" />
 
-🔥 Official theme by Wes Bos.
+This extension converts a string to a template string when ${ is typed.
 
-### Synthwave '84
+Typing a dollar sign then open curly brace within a string converts the quotes to backticks.
 
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_synthwave.jpg" alt="Synthwave '84 Theme" width="60%" />
+### Thunder Client
 
-A Synthwave-inspired colour theme to satisfy your neon dreams
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_thunderClient.jpg" alt="Thunder Client" width="60%" />
+
+Thunder Client is a lightweight Rest API Client Extension for Visual Studio Code with
+simple and clean design.
 
 ## Issues & Suggestions
 
